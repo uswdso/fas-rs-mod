@@ -1,6 +1,6 @@
 {
-  "versionCode": 4902,
-  "version": "v4.9.2-perf",
-  "zipUrl": "https://github.com/uswdso/fas-rs-mod/releases/download/fas-rs-mod/fas-rs-mod-v4.9.2.zip",
+  "versionCode": 4903,
+  "version": "v4.9.3-perf",
+  "zipUrl": "https://github.com/uswdso/fas-rs-mod/releases/download/fas-rs-mod/fas-rs-mod-v4.9.3.zip",
   "changelog": "https://raw.githubusercontent.com/uswdso/fas-rs-mod/master/update/zh-CN/changelog.md"
 }
